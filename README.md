@@ -13,7 +13,7 @@
 </p>
 
 - :space_invader: I'm currently cooking up a quantum game using micro-qiskit to experiment the quantum entanglement for a room-escape type game
-- :joystick: As a hardware hobbiest I am currently putting together a table-top arcade machine with raspberry pi for [quantum game developement platform](https://github.com/wslu42/qilin) for K-12 developers.
+- :joystick: As a hardware hobbyist I am currently putting together a table-top arcade machine with raspberry pi for [quantum game development platform](https://github.com/wslu42/qilin) for K-12 developers.
 
 <!-- 
 - 👯 i’m looking to collaborate on ...
@@ -23,7 +23,7 @@
 - 😄 pronouns: ...
 - ⚡ fun fact: ...
 - 🔭 I’m currently working on *design and simulation of superconducting chips*, and as a result you probably won't see much of my daily works here lol.
-- 🌱 I’m currently learning *all potential emerging technologies to scale up supercondcuting quantum cumputers*
+- 🌱 I’m currently learning *all potential emerging technologies to scale up superconducting quantum computers*
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wslu42&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
