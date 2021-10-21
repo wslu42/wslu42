@@ -12,7 +12,7 @@
   </a>
 </p>
 
-- :space_invader: I'm currently cooking up a game to experiment the quantum entanglement for a room-escape type game
+- :space_invader: I'm currently cooking up a quantum game using micro-qiskit to experiment the quantum entanglement for a room-escape type game
 - :joystick: As a hardware hobbiest I am currently putting together a table-top arcade machine with raspberry pi for [quantum game developement platform](https://github.com/wslu42/qilin) for K-12 developers.
 
 <!-- 
