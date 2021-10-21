@@ -32,8 +32,8 @@
 
 <details>
 <summary> Quantum Games </summary>
-<a href="https://github.com/wslu42/qilin>
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HuangJunye&repo=Awesome-Quantum-Games&theme=gotham" /> -->
+<a href="https://github.com/wslu42/qilin">
+
 </a>
 </details>
 
