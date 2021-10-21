@@ -22,6 +22,10 @@
 - 🔭 I’m currently working on *design and simulation of superconducting chips*, and as a result you probably won't see much of my daily works here lol.
 - 🌱 I’m currently learning *all potential emerging technologies to scale up superconducting quantum computers*
 
+  <a href="https://www.linkedin.com/in/wslu42/">
+    <img alt="Twitter followers" src="https://img.shields.io/linkedin/follow/wslu42?style=social">
+  </a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wslu42&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Wen-Sen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wslu42&theme=gotham&layout=compact)](https://wakatime.com/@wslu42)
