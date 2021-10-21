@@ -7,9 +7,6 @@
   <a href="https://github.com/wslu42?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/wslu42?color=green&logo=github">
   </a>
-  <a href="https://www.linkedin.com/in/wslu42/">
-    <img alt="Twitter followers" src="https://img.shields.io/linkedin/follow/wslu42?style=social">
-  </a>
 </p>
 
 - :space_invader: I'm currently cooking up a quantum game using micro-qiskit to experiment the quantum entanglement for a room-escape type game
