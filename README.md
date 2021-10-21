@@ -21,6 +21,8 @@
 - 📫 how to reach me: ...
 - 😄 pronouns: ...
 - ⚡ fun fact: ...
+
+[![Wen-Sen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wslu42&theme=gotham&layout=compact)](https://wakatime.com/@wslu42)
 -->
 
 <details>
@@ -37,7 +39,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wslu42&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Wen-Sen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wslu42&theme=gotham&layout=compact)](https://wakatime.com/@wslu42)
+
 </details>
 
 ![Profile last updated](https://img.shields.io/github/last-commit/wslu42/wslu42/main?label=Last%20updated&style=flat)
