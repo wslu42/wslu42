@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, welcome to my experimental space testing out quantum ideas in games :space_invader:!
 
 <p align="left">
   <a href="https://github.com/wslu42/wslu42">
