@@ -7,8 +7,8 @@
   <a href="https://github.com/wslu42?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/wslu42?color=green&logo=github">
   </a>
-  <a href="https://twitter.com/intent/follow?screen_name=wslu42">
-    <img alt="Twitter followers" src="https://img.shields.io/twitter/follow/wslu42?style=social">
+  <a href="https://www.linkedin.com/in/wslu42/">
+    <img alt="Twitter followers" src="https://img.shields.io/linkedin/follow/wslu42?style=social">
   </a>
 </p>
 
