@@ -1,4 +1,4 @@
-### Hi there 👋, welcome to my experimental space testing out quantum ideas in games :space_invader:!
+### Hi there 👋, welcome and let's experimenting quantum ideas in games :space_invader:!
 
 <p align="left">
   <a href="https://github.com/wslu42/wslu42">
@@ -12,8 +12,12 @@
   </a>
 </p>
 
-- 🔭 i’m currently working on **
-- 🌱 i’m currently learning **
+- 🔭 I’m currently working on *design and simulation of superconducting chips*, and as a result you probably won't see much of my daily works here lol.
+- 🌱 I’m currently learning *all potential emerging technologies to scale up supercondcuting quantum cumputers*
+- :space_invader: I'm currently cooking up a game to experiment the quantum entanglement for a room-escape type game
+- :joystick: As a hardware hobbiest I am currently putting together a table-top arcade machine with 8" screen and raspberry pi. This machine is expected to be used as a cheap quantum game developement platform
+
+
 <!-- 
 - 👯 i’m looking to collaborate on ...
 - 🤔 i’m looking for help with ...
