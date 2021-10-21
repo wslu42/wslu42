@@ -32,8 +32,7 @@
 
 <details>
 <summary> Quantum Games </summary>
-<a href="https://github.com/wslu42/qilin">
-
+![Qilin](ttps://github.com/wslu42/qilin)
 </a>
 </details>
 
